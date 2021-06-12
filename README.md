@@ -1,4 +1,4 @@
-# Simple log dumper
+# Simple bulk log generator
 
 This projects aims to generate sample log lines with json, text, with color.
 
